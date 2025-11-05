@@ -1,32 +1,33 @@
-# Dhiraj Rathod
+# dhiraj-143r/README.md
 
-**dhiraj-143r** • he/him
-
-📍 India  
-📧 dhirajrathod@email.com
+20, engineer.
 
 ---
 
-## 📌 Pinned Projects
+<div align="center">
 
-### 🏆 [GSoC](https://github.com/dhiraj-143r/GSoC)
-Google Summer of Code related projects and contributions. Working on open-source initiatives and collaborative development.
+## <span style="color: #FF6B35">📊 Dhiraj Rathod's GitHub Stats</span>
 
-### 🧪 [RUXAILAB](https://github.com/dhiraj-143r/RUXAILAB)
-Usability Testing and Heuristics Evaluation - Conceptual learning platform built with Vue.js. Focus on user experience research and testing methodologies.
+| Total Stars Earned | Total Commits (2024) |
+|:------------------:|:--------------------:|
+| 150 | 520 |
 
-### 💼 [broker-pro](https://github.com/dhiraj-143r/broker-pro)
-Real estate brokerage management system built with TypeScript. Features property listings, client management, and transaction tracking.
+| Total PRs | Contributed to (2024) |
+|:---------:|:---------------------:|
+| 45 | 12 |
 
-### 🔬 [mesa](https://github.com/dhiraj-143r/mesa)
-Contributions to the Mesa agent-based modeling framework in Python. Working on documentation improvements and tutorials.
+### Grade: **B+** 🎯
 
 ---
 
-## 📊 Dhiraj Rathod's GitHub Stats
+## <span style="color: #FF6B35">💻 Most Used Languages</span>
 
-![Dhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhiraj-143r&show_icons=true&count_private=true&theme=dark)
+```
+Python  ████████████████████████████████████████████ 90.00%
+CSS     ███▌                                          7.57%
+HTML    █                                             2.43%
+```
 
-## 💻 Most Used Languages
+**Python** 90.00% | **CSS** 7.57% | **HTML** 2.43%
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-143r&layout=compact&theme=dark)
+</div>
